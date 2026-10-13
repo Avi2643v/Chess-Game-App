@@ -1,1 +1,1 @@
-# Chess-Game-App
+# Chess-Game-App by Avidhan Ghosh
